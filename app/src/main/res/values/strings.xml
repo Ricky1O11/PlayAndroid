@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Play</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_boardgames">Boardgames</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name ="search_label">Search</string>
+    <string name ="logout_label">Logout</string>
+    <string name ="search_hint">Search boardgame</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login_and_register">LoginAndRegister</string>
+    <string name="title_activity_boardgame_detail">BoardgameDetail</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="id_bg">0</string>
+    <string name="id_isfav">1</string>
+</resources>
